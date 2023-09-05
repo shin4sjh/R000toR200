@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ReactstrapAlerts from './R034_ReactStrapAlerts'
+import ReactstrapAlerts from './R034_ReactstrapAlerts'
 import 'bootstrap/dist/css/bootstrap.css'
 
 function App() {
