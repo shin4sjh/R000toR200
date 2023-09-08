@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ReactstrapBreadcrumbs from './R036_ReactstrapBreadcrumbs'
+import ReactstrapBadges from './R035_ReactstrapBadges'
 import 'bootstrap/dist/css/bootstrap.css'
 
 
@@ -10,7 +10,7 @@ return (
 <div>
   <h1>Start React 200!</h1>
   <p>CSS 적용하기</p>
-  <ReactstrapBreadcrumbs/>
+  <ReactstrapBadges/>
 </div>
   );
 }
